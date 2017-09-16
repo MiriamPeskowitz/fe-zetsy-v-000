@@ -21,6 +21,7 @@ Mary's jewelry has received recognition and has been featured in the National Mu
 Press
 
 <!-- press images -->
+put into html -- then put boxes display: inline 
 [nmai-logo.png]<!-- links to: http://nmai.si.edu -->
 [times-logo.png]<!-- links to: http://www.nytimes.com/pages/t-magazine/ -->
 [sedona-logo.png]<!-- links to: http://www.sedonamonthly.com -->
